@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import Reveal from "@/components/Reveal";
@@ -59,6 +60,19 @@ export default async function BlogPostPage({
         <h1 className="mt-4 font-display text-3xl sm:text-4xl leading-tight">
           {post.title}
         </h1>
+
+        {post.image && (
+          <div className="relative mt-8 aspect-[16/9] rounded-2xl overflow-hidden bg-surface">
+            <Image
+              src={post.image}
+              alt={post.title}
+              fill
+              className="object-cover"
+              sizes="(min-width: 768px) 700px, 100vw"
+              priority
+            />
+          </div>
+        )}
 
         <div className="mt-8 space-y-5 text-muted leading-relaxed text-lg">
           {post.content.map((paragraph, i) => (
