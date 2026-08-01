@@ -1,0 +1,520 @@
+[
+  {
+    "id": 1,
+    "slug": "huile-lune-soleil",
+    "name": "Huile Lune Soleil",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-lune-soleil.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "huile-de-parfum",
+    "name": "Huile de parfum",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-de-parfum.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "huile-dencens",
+    "name": "Huile d’encens",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-dencens.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "huile-de-massage",
+    "name": "Huile de massage",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-de-massage.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "huile-parfumee",
+    "name": "Huile parfumée",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-parfumee.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "huile-naturelle",
+    "name": "Huile naturelle",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-naturelle.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "huile-artisanale",
+    "name": "Huile artisanale",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-artisanale.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "huile-de-soin-traditionnelle",
+    "name": "Huile de soin traditionnelle",
+    "category": "Huiles",
+    "description": "Une huile proposée en flacon, à utiliser selon vos habitudes (soin, parfum d'ambiance ou rituel personnel).",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/huile-de-soin-traditionnelle.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "encens-lune-soleil",
+    "name": "Encens Lune Soleil",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-lune-soleil.jpg"
+  },
+  {
+    "id": 10,
+    "slug": "encens-en-batons",
+    "name": "Encens en bâtons",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-en-batons.jpg"
+  },
+  {
+    "id": 11,
+    "slug": "encens-en-cones",
+    "name": "Encens en cônes",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-en-cones.jpg"
+  },
+  {
+    "id": 12,
+    "slug": "encens-en-resine",
+    "name": "Encens en résine",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-en-resine.jpg"
+  },
+  {
+    "id": 13,
+    "slug": "encens-en-poudre",
+    "name": "Encens en poudre",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-en-poudre.jpg"
+  },
+  {
+    "id": 14,
+    "slug": "melange-dencens-artisanal",
+    "name": "Mélange d’encens artisanal",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/melange-dencens-artisanal.jpg"
+  },
+  {
+    "id": 15,
+    "slug": "encens-naturel",
+    "name": "Encens naturel",
+    "category": "Encens",
+    "description": "Un encens artisanal à faire brûler pour parfumer et apaiser votre intérieur.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/encens-naturel.jpg"
+  },
+  {
+    "id": 16,
+    "slug": "savon-lune-soleil",
+    "name": "Savon Lune Soleil",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-lune-soleil.jpg"
+  },
+  {
+    "id": 17,
+    "slug": "savon-noir",
+    "name": "Savon noir",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-noir.jpg"
+  },
+  {
+    "id": 18,
+    "slug": "savon-parfume",
+    "name": "Savon parfumé",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-parfume.jpg"
+  },
+  {
+    "id": 19,
+    "slug": "savon-artisanal",
+    "name": "Savon artisanal",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-artisanal.jpg"
+  },
+  {
+    "id": 20,
+    "slug": "savon-aux-plantes",
+    "name": "Savon aux plantes",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-aux-plantes.jpg"
+  },
+  {
+    "id": 21,
+    "slug": "savon-traditionnel",
+    "name": "Savon traditionnel",
+    "category": "Savons",
+    "description": "Un savon traditionnel, fabriqué avec des ingrédients choisis pour un usage quotidien.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/savon-traditionnel.jpg"
+  },
+  {
+    "id": 22,
+    "slug": "bougie-blanche",
+    "name": "Bougie blanche",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/bougie-blanche.jpg"
+  },
+  {
+    "id": 23,
+    "slug": "bougie-rouge",
+    "name": "Bougie rouge",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/bougie-rouge.jpg"
+  },
+  {
+    "id": 24,
+    "slug": "bougie-verte",
+    "name": "Bougie verte",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 25,
+    "slug": "bougie-jaune",
+    "name": "Bougie jaune",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 26,
+    "slug": "bougie-bleue",
+    "name": "Bougie bleue",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 27,
+    "slug": "bougie-violette",
+    "name": "Bougie violette",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 28,
+    "slug": "bougie-parfumee",
+    "name": "Bougie parfumée",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/bougie-parfumee.jpg"
+  },
+  {
+    "id": 29,
+    "slug": "bougie-artisanale",
+    "name": "Bougie artisanale",
+    "category": "Bougies",
+    "description": "Une bougie artisanale, à allumer pour créer une ambiance calme et recueillie.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/bougie-artisanale.jpg"
+  },
+  {
+    "id": 30,
+    "slug": "poudre-lune-soleil",
+    "name": "Poudre Lune Soleil",
+    "category": "Poudres",
+    "description": "Une poudre traditionnelle proposée en sachet, à utiliser selon l'usage qui vous convient.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/poudre-lune-soleil.jpg"
+  },
+  {
+    "id": 31,
+    "slug": "poudre-parfumee",
+    "name": "Poudre parfumée",
+    "category": "Poudres",
+    "description": "Une poudre traditionnelle proposée en sachet, à utiliser selon l'usage qui vous convient.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/poudre-parfumee.jpg"
+  },
+  {
+    "id": 32,
+    "slug": "poudre-naturelle",
+    "name": "Poudre naturelle",
+    "category": "Poudres",
+    "description": "Une poudre traditionnelle proposée en sachet, à utiliser selon l'usage qui vous convient.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/poudre-naturelle.jpg"
+  },
+  {
+    "id": 33,
+    "slug": "melange-de-poudres-artisanales",
+    "name": "Mélange de poudres artisanales",
+    "category": "Poudres",
+    "description": "Une poudre traditionnelle proposée en sachet, à utiliser selon l'usage qui vous convient.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/melange-de-poudres-artisanales.jpg"
+  },
+  {
+    "id": 34,
+    "slug": "parfum-concentre",
+    "name": "Parfum concentré",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/parfum-concentre.jpg"
+  },
+  {
+    "id": 35,
+    "slug": "musk",
+    "name": "Musk",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/musk.jpg"
+  },
+  {
+    "id": 36,
+    "slug": "ambre",
+    "name": "Ambre",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/ambre.jpg"
+  },
+  {
+    "id": 37,
+    "slug": "oud",
+    "name": "Oud",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/oud.jpg"
+  },
+  {
+    "id": 38,
+    "slug": "eau-parfumee",
+    "name": "Eau parfumée",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/eau-parfumee.jpg"
+  },
+  {
+    "id": 39,
+    "slug": "brume-parfumee",
+    "name": "Brume parfumée",
+    "category": "Parfums",
+    "description": "Un parfum concentré, préparé de façon artisanale.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/brume-parfumee.jpg"
+  },
+  {
+    "id": 40,
+    "slug": "chapelet",
+    "name": "Chapelet",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 41,
+    "slug": "tapis-de-priere",
+    "name": "Tapis de prière",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/tapis-de-priere.jpg"
+  },
+  {
+    "id": 42,
+    "slug": "porte-encens",
+    "name": "Porte-encens",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/porte-encens.jpg"
+  },
+  {
+    "id": 43,
+    "slug": "bruleur-dencens",
+    "name": "Brûleur d’encens",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande.",
+    "image": "/images/products/bruleur-dencens.jpg"
+  },
+  {
+    "id": 44,
+    "slug": "diffuseur-de-parfum",
+    "name": "Diffuseur de parfum",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 45,
+    "slug": "coffret-cadeau",
+    "name": "Coffret cadeau",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 46,
+    "slug": "flacons-en-verre",
+    "name": "Flacons en verre",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 47,
+    "slug": "boites-de-rangement",
+    "name": "Boîtes de rangement",
+    "category": "Accessoires",
+    "description": "Un accessoire pratique pour accompagner vos rituels et moments de recueillement.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 48,
+    "slug": "calligraphies-decoratives",
+    "name": "Calligraphies décoratives",
+    "category": "Articles décoratifs",
+    "description": "Un article décoratif pour votre intérieur, à l'esthétique orientale soignée.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 49,
+    "slug": "cadres-decoratifs",
+    "name": "Cadres décoratifs",
+    "category": "Articles décoratifs",
+    "description": "Un article décoratif pour votre intérieur, à l'esthétique orientale soignée.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 50,
+    "slug": "lanternes-orientales",
+    "name": "Lanternes orientales",
+    "category": "Articles décoratifs",
+    "description": "Un article décoratif pour votre intérieur, à l'esthétique orientale soignée.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 51,
+    "slug": "coffret-decouverte",
+    "name": "Coffret découverte",
+    "category": "Coffrets",
+    "description": "Un coffret regroupant plusieurs articles, pensé comme une découverte ou un cadeau.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 52,
+    "slug": "coffret-bien-etre",
+    "name": "Coffret bien-être",
+    "category": "Coffrets",
+    "description": "Un coffret regroupant plusieurs articles, pensé comme une découverte ou un cadeau.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 53,
+    "slug": "coffret-premium",
+    "name": "Coffret premium",
+    "category": "Coffrets",
+    "description": "Un coffret regroupant plusieurs articles, pensé comme une découverte ou un cadeau.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 54,
+    "slug": "coffret-cadeau-personnalise",
+    "name": "Coffret cadeau personnalisé",
+    "category": "Coffrets",
+    "description": "Un coffret regroupant plusieurs articles, pensé comme une découverte ou un cadeau.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 55,
+    "slug": "coffret-lune-soleil",
+    "name": "Coffret Lune Soleil",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 56,
+    "slug": "huile-lune-soleil-premium",
+    "name": "Huile Lune Soleil Premium",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 57,
+    "slug": "encens-lune-soleil-premium",
+    "name": "Encens Lune Soleil Premium",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 58,
+    "slug": "savon-lune-soleil-premium",
+    "name": "Savon Lune Soleil Premium",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 59,
+    "slug": "poudre-lune-soleil-premium",
+    "name": "Poudre Lune Soleil Premium",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  },
+  {
+    "id": 60,
+    "slug": "pack-complet-lune-soleil",
+    "name": "Pack complet Lune Soleil",
+    "category": "Gamme Lune Soleil",
+    "description": "Un article de la gamme Lune Soleil, la collection signature de la maison.",
+    "usage": "Mode d'utilisation conseillé selon vos habitudes ; renseignez-vous auprès de Hadj Ismael Bohlaly lors de votre commande."
+  }
+]
