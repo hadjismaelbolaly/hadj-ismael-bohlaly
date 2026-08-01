@@ -8,6 +8,7 @@ export const site = {
   whatsappNumberLink: "https://wa.me/22603809292",
   instagram: "https://www.instagram.com/hadjismaelbohlaly?igsh=YWJvMzA5eXd0YXF2&utm_source=qr",
   youtube: "https://youtube.com/@hadjismaelbolalyofficiel?si=763Gf_R1vp2TvE9A",
+
   email: "contact@hadjismaelbolaly.com",
   url: "https://www.hadjismaelbohlaly.com",
 };
